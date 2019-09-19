@@ -1,0 +1,34 @@
+body {
+    background-image: url("https://media.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif");
+
+}
+
+h3 {
+    text-align: center;
+}
+
+.banner {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.container {
+
+        width: 50%;
+        background: #6e1717;
+        margin: auto;
+        margin-top: 5%;
+        text-align: center;
+}
+
+.header {
+
+        background: #550505;
+        text-align: center;
+  
+}
+
+.game {
+
+
+}
